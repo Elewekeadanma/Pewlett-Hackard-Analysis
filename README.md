@@ -17,4 +17,3 @@ The purpose of this analysis is to determine those who are qualified to get reti
 ---
 - From the analysis, we can see that there are enough qualified retirement-ready employees in the Engineering department. However, we don't have enough qualified, retirement ready   employees to mentor the younger employees in the Technique department.
 ---
-![Chart depicting number of employees retiring by their titles](https://github.com/Elewekeadanma/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv)
