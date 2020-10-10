@@ -15,6 +15,7 @@ The purpose of this analysis is to determine those who are qualified to get reti
 ---
 ![Total Number of Employees retiring very soon](https://github.com/Elewekeadanma/Pewlett-Hackard-Analysis/blob/main/Data/Total_number_of_retiring_employees.png)
 ---
-- From the analysis, we can see that there are enough qualified retirement-ready employees in the Engineering department. However, we don't have enough qualified, retirement ready   employees to mentor the younger employees in the Technique department.
+- From the analysis, we can see that there are enough qualified retirement-ready employees in the Engineering department. However, we don't have enough qualified, retirement ready   employees to mentor the younger employees in the Technique department. 
+- Also, we barely have any Managers qualified to be in the mentorship program.
 ---
 ![Number of employees retiring by title](https://github.com/Elewekeadanma/Pewlett-Hackard-Analysis/blob/main/Count_of_retiring_employees_by_dept.png)
